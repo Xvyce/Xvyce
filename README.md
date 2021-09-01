@@ -4,10 +4,11 @@ I a Game Dev student at iAcademy, I am mostly a Game Designer but that doesn't e
 
 #These are the games I've made throughout the years
 ## Oxygone
+[<img align="left" src = "https://github.com/Xvyce/Oxygone/blob/main/Assets/Sprites/oxygone_title%201.JPG?raw=true" width=200>](https://xvyce.itch.io/oxygone)
 ### Oxygone is a first runner up on a 2020 Builf For Unity: The 48-Hour Game Jam
 #### Oxygone is a 2D highscore survival game 
 
-[<img align="left" src = "https://github.com/Xvyce/Oxygone/blob/main/Assets/Sprites/oxygone_title%201.JPG?raw=true" width=200>](https://xvyce.itch.io/oxygone)
+
 <!--
 **Xvyce/Xvyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
