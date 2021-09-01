@@ -15,7 +15,8 @@ These are the games I've made throughout the years
 
 ## Capiophobia
 [<img align="left" src = "https://github.com/Xvyce/Capiophobia/blob/master/Assets/Art/titlescreen(new).png" width=200>](https://xvyce.itch.io/capiophobia)
-### Capiophobia is a 2D Capiophobia is a point-and-click, environmental clicker. Solve puzzles along the way and figure out the mystery of the house, all the while avoiding a certain someone that seems to be following you.
+### Capiophobia is a 2D Capiophobia is a point-and-click, environmental clicker. 
+#### Solve puzzles along the way and figure out the mystery of the house, all the while avoiding a certain someone that seems to be following you.
 
 <br>
 <br>
