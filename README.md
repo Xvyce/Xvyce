@@ -1,5 +1,13 @@
 ### Hi there 👋
+### I am Juwan with the username Xvyce.
+I a Game Dev student at iAcademy, I am mostly a Game Designer but that doesn't excuse me from coding.
 
+#These are the games I've made throughout the years
+## Oxygone
+### Oxygone is a first runner up on a 2020 Builf For Unity: The 48-Hour Game Jam
+#### Oxygone is a 2D highscore survival game 
+
+[<img align="left" src = "https://github.com/Xvyce/Oxygone/blob/main/Assets/Sprites/oxygone_title%201.JPG?raw=true" width=200>](https://xvyce.itch.io/oxygone)
 <!--
 **Xvyce/Xvyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
